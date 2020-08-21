@@ -1,2 +1,2 @@
-# Public_Software_Resources
+# Public Software Resources
 Software files for advanced TCS users
