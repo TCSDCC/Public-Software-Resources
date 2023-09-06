@@ -194,6 +194,23 @@
       "subminor_version": "29",
       "uuid": "2a58e86c-f449-4531-b9f8-4d246543dc14",
       "version": "R1.0.1"
+    },
+    {
+      "created": "1692738412",
+      "date": "08-22-2023",
+      "description": "Adds support for UWT-100 magnetic encoder. Removes ballistic tracking when using the thumbwheel in menus and text entry window. Bug fixes and performance improvements in some special cases.",
+      "device": "UWT-100",
+      "file": "UWT-100 R3.2 (08-22-2023).bin",
+      "major_version": "2023",
+      "md5sum": "4ab40035281e7d8cf794ac7e32dc4ba4",
+      "minor_version": "8",
+      "name": "UWT-100 R3.2 (08-22-2023)",
+      "sha1sum": "927f7d090fad98d72775057c8e0cc85d7d47c216",
+      "sha256sum": "b9877d567d1267d846320de756020fb1da2d2814fe45dc93b24f0c96d8bd51ff",
+      "size": 617420,
+      "subminor_version": "22",
+      "uuid": "14b36a51-41cd-4f42-9221-5776ed2bdb7c",
+      "version": "R3.2"
     }
   ]
 }
