@@ -211,6 +211,23 @@
       "subminor_version": "22",
       "uuid": "14b36a51-41cd-4f42-9221-5776ed2bdb7c",
       "version": "R3.2"
+    },
+    {
+      "created": "1692738412",
+      "date": "08-22-2023",
+      "description": "UWT-50 Release 3.2 removes ballistic tracking in the menus and text entry window when using the encoder version. Bug fixes and performance improvements in specific cases.",
+      "device": "UWT-50",
+      "file": "UWT-50 R3.2 (08-22-2023).bin",
+      "major_version": "2023",
+      "md5sum": "8c3f79e50351e5859b7329927f78e17c",
+      "minor_version": "8",
+      "name": "UWT-50 R3.2 (08-22-2023)",
+      "sha1sum": "411c6a92b7954717fb9faedceac7b00d644f8b3a",
+      "sha256sum": "39c08036b4c6e4e3343efefbbfd0714d8ff6c3658b5ace7c71b7fd3e9c3e25ac",
+      "size": 623981,
+      "subminor_version": "22",
+      "uuid": "1037cde2-0495-40f6-8cda-1f6367526c71",
+      "version": "R3.2"
     }
   ]
 }
