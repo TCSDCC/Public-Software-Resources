@@ -245,6 +245,23 @@
       "subminor_version": "12",
       "uuid": "c1d2bf2a-3871-47d3-b6a2-1c1e9ebfd9f8",
       "version": "R3.4"
+    },
+    {
+      "created": "1707770603",
+      "date": "02-12-2024",
+      "description": "UWT-50 Release 3.4:\nRelease 3.4 makes the following changes and improvements to the UWT-50E:\n- Fixes bug when the locomotive speed would jump to 126 unexpectedly after the throttle has been sitting idle for some time.\n- Adds a configuration option for disabling or changing the sensitivity of the ballistic tracking (acceleration) for the encoder knob. Menu > 8 Settings > 1 Throttle Settings > 3 Drive Settings > Encoder Ballistics > Off/Low/Mid/High. The default of this setting will be Mid, whereas throttle software until 3.2 had the same behavior as Low. Changing the setting to Off will disable all ballistics and the knob will control the speed at a constant rate with the rotation.\n- Improved behavior when the encoder knob is turned very fast. This is independent of the Ballistic setting and will have more consistent behavior even with Ballistics turned Off. Users who are accustomed to the behavior before this release may prefer to reduce the ballistics setting to Low or Off. \n\nMisc changes:\n- Updated DCC accessory addresses according to the newest standard RCN-213 and NMRA S-9.1.2 from 2023. This changes the behavior of turnout address 2045-2047, and extends the maximum to turnout address 2048. Turnouts 1-2044 did not change as part of this update.\n- Various fixes regarding LCC standards compliance. The Producer Identified messages are updated. The CDI XML has an additional null terminator. Some non-user-visible but non-compliant parts in the XML are fixed.\n\nNOTE: There are no changes made in this release for the UWT-50P.\n",
+      "device": "UWT-50",
+      "file": "UWT-50 R3.4 (02-12-2024).bin",
+      "major_version": "2024",
+      "md5sum": "c307887c5b29bafd743829c7f3d58bb0",
+      "minor_version": "2",
+      "name": "UWT-50 R3.4 (02-12-2024)",
+      "sha1sum": "7b6f8262f86a621162d88696d6a832f17e45bf19",
+      "sha256sum": "fb0d6667692fe40133dc55dee73cbc52ba8cd56c53efffce893dc34ded9c62b9",
+      "size": 628996,
+      "subminor_version": "12",
+      "uuid": "56ed14fc-f255-4198-95f7-b76cc7449f77",
+      "version": "R3.4"
     }
   ]
 }
