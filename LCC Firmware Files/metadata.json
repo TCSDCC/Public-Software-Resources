@@ -228,6 +228,23 @@
       "subminor_version": "22",
       "uuid": "1037cde2-0495-40f6-8cda-1f6367526c71",
       "version": "R3.2"
+    },
+    {
+      "created": "1707770602",
+      "date": "02-12-2024",
+      "description": "UWT-100 Release 3.4\nRelease 3.4 makes the following changes and improvements to the UWT-100:\n- Fixes bug when the locomotive speed would jump to 126 unexpectedly after the throttle has been sitting idle for some time.\n- Adds a configuration option for disabling or changing the sensitivity of the ballistic tracking (acceleration) for the encoder knob. Menu > 8 Settings > 1 Throttle Settings > 3 Drive Settings > Encoder Ballistics > Off/Low/Mid/High. The default of this setting will be Mid, whereas throttle software until 3.2 had the same behavior as High. Changing the setting to Off will disable all ballistics and the knob will control the speed at a constant rate with the rotation.\n- The sensitivity of the thumbwheel is adjusted down in the text entry window to match that of the menus. This will make it easier to select individual characters and enter text.\n\nMisc changes:\n- Updated DCC accessory addresses according to the newest standard RCN-213 and NMRA S-9.1.2 from 2023. This changes the behavior of turnout address 2045-2047, and extends the maximum to turnout address 2048. Turnouts 1-2044 did not change as part of this update.\n- [UWT-100 only] Fixed corner case when the same locomotive is selected on both sides in Dual Throttle mode and speed changes would not update each other. The speed and direction displayed will now follow each other as expected.\n- Various fixes regarding LCC standards compliance. The Producer Identified messages are updated. The CDI XML has an additional null terminator. Some non-user-visible but non-compliant parts in the XML are fixed.\n",
+      "device": "UWT-100",
+      "file": "UWT-100 R3.4 (02-12-2024).bin",
+      "major_version": "2024",
+      "md5sum": "6a84e2f9554ff8654cfdd828b260d1d1",
+      "minor_version": "2",
+      "name": "UWT-100 R3.4 (02-12-2024)",
+      "sha1sum": "01316736aec853cd243633a5344c7b9b0cba9223",
+      "sha256sum": "06e3059fe757f273ca551cb5ce1ea8b0fad474f4a4088d37113a24c08e4e7efe",
+      "size": 622012,
+      "subminor_version": "12",
+      "uuid": "c1d2bf2a-3871-47d3-b6a2-1c1e9ebfd9f8",
+      "version": "R3.4"
     }
   ]
 }
