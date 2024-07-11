@@ -262,6 +262,23 @@
       "subminor_version": "12",
       "uuid": "56ed14fc-f255-4198-95f7-b76cc7449f77",
       "version": "R3.4"
+    },
+    {
+      "created": "1717695465",
+      "date": "06-06-2024",
+      "description": "https://docs.tcsdcc.com/wiki/CS-105_Release_Notes#Release_2.2.1",
+      "device": "CS-105",
+      "file": "CS-105 R2.2.1 (06-06-2024).bin",
+      "major_version": "2024",
+      "md5sum": "9c2c0faf0a04134c104b33662b82ba79",
+      "minor_version": "6",
+      "name": "CS-105 R2.2.1 (06-06-2024)",
+      "sha1sum": "78255ede188516f06ce43017478a6d213dd75d5a",
+      "sha256sum": "b533731b65e4afcf50232eeb219fbc1988a124942fd6863616bb16f2b7f767ad",
+      "size": 646036,
+      "subminor_version": "6",
+      "uuid": "67cf94e9-44e7-4835-8378-c5ea14d3d09a",
+      "version": "R2.2.1"
     }
   ]
 }
