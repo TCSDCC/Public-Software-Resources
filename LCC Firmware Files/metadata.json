@@ -279,6 +279,40 @@
       "subminor_version": "6",
       "uuid": "67cf94e9-44e7-4835-8378-c5ea14d3d09a",
       "version": "R2.2.1"
+    },
+    {
+      "created": "1717695465",
+      "date": "06-06-2024",
+      "description": "https://docs.tcsdcc.com/wiki/LT-50_Release_Notes",
+      "device": "LT-50",
+      "file": "LT-50 R2.2.1 (06-06-2024).bin",
+      "major_version": "2024",
+      "md5sum": "db2bffd589c37fd41850ed7762a3e5a8",
+      "minor_version": "6",
+      "name": "LT-50 R2.2.1 (06-06-2024)",
+      "sha1sum": "c6153057efeb5edc0e772797e07de6c072487c4e",
+      "sha256sum": "331198ad3dd5ba747b3ced281775dfbccd599f6c7b2119308e82bfe07a22e166",
+      "size": 604616,
+      "subminor_version": "6",
+      "uuid": "f099bcb1-532e-47ba-a69e-600c97e680e0",
+      "version": "R2.2.1"
+    },
+    {
+      "created": "1671116033",
+      "date": "12-15-2022",
+      "description": "https://docs.tcsdcc.com/wiki/LT-50_Release_Notes",
+      "device": "LT-50",
+      "file": "LT-50 R1.0 (12-15-2022).bin",
+      "major_version": "2022",
+      "md5sum": "1c526c7df621a8571cbb8ed08b7fcd34",
+      "minor_version": "12",
+      "name": "LT-50 R1.0 (12-15-2022)",
+      "sha1sum": "d95a554438c4e0a22dd604db8d154783b1b84dad",
+      "sha256sum": "8c02c6784bbf25a62e9df5b6c4643789444e2ec41d6e653212f5d215a1749c69",
+      "size": 649464,
+      "subminor_version": "15",
+      "uuid": "334569ce-a203-4aaa-aeeb-bf2cf1c7548e",
+      "version": "R1.0"
     }
   ]
 }
