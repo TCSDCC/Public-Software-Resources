@@ -381,6 +381,23 @@
       "subminor_version": "26",
       "uuid": "4b8b68fd-47d5-4c61-b586-31d798ecfb9b",
       "version": "R3.8"
+    },
+    {
+      "created": "1685733694",
+      "date": "10-31-2022",
+      "description": "Release 1.0 is the first production release for the B-106",
+      "device": "B-106",
+      "file": "B-106 R1.0 (10-31-2022).bin",
+      "major_version": "2022",
+      "md5sum": "58df0238c4cb34bc85b0e23c025b63bc",
+      "minor_version": "10",
+      "name": "B-106 R1.0 (10-31-2022)",
+      "sha1sum": "2c96ec8aac02d520b3920729dada34fe84a66c62",
+      "sha256sum": "8f7ae82907681081a3b7bc35febb17d1b0682b33cdf18f4c12ae97773272f00a",
+      "size": 138536,
+      "subminor_version": "31",
+      "uuid": "833bbc3f-2fdb-48f1-93d0-70cf88dc0d47",
+      "version": "R1.0"
     }
   ]
 }
