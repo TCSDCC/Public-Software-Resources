@@ -347,6 +347,40 @@
       "subminor_version": "24",
       "uuid": "b497aa8a-b56f-44eb-9137-ced9a4b85f64",
       "version": "R3.6"
+    },
+    {
+      "created": "1773148398",
+      "date": "02-26-2026",
+      "description": "https://docs.tcsdcc.com/wiki/Throttle_Release_Notes#Release_3.8",
+      "device": "UWT-50",
+      "file": "UWT-50 R3.8 (02-26-2026).bin",
+      "major_version": "2026",
+      "md5sum": "75699ac187dcd828e2446324a0466567",
+      "minor_version": "2",
+      "name": "UWT-50 R3.8 (02-26-2026)",
+      "sha1sum": "cbe5340fefa1a2c83f492ee1303266bb628a0d02",
+      "sha256sum": "66ee5ca5b8e191f16a7be94308e01012e62daa6efd2e9da11636954ba0462e5d",
+      "size": 636137,
+      "subminor_version": "26",
+      "uuid": "84ab67db-ee79-41f8-9b99-24b6dc75f17d",
+      "version": "R3.8"
+    },
+    {
+      "created": "1773148396",
+      "date": "02-26-2026",
+      "description": "https://docs.tcsdcc.com/wiki/Throttle_Release_Notes#Release_3.8",
+      "device": "UWT-100",
+      "file": "UWT-100 R3.8 (02-26-2026).bin",
+      "major_version": "2026",
+      "md5sum": "36cbc6dc50b8b48b3e9f0b40546ce129",
+      "minor_version": "2",
+      "name": "UWT-100 R3.8 (02-26-2026)",
+      "sha1sum": "1b20f6e73397b50f6d4bd81232afffcdb03a483d",
+      "sha256sum": "efc478dd9588b05dedf0c8d2f2e1652d6f82caf30b2134c9ea139b3e039ab6c7",
+      "size": 628120,
+      "subminor_version": "26",
+      "uuid": "4b8b68fd-47d5-4c61-b586-31d798ecfb9b",
+      "version": "R3.8"
     }
   ]
 }
